@@ -32,6 +32,11 @@ Projeto realizado no curso Cypress - Direto ao Ponto ministrado por Samuel Lucas
 ```
     npx cypress run --config viewportHeight=1000,viewportWidht=600
 ```
+
+### Gif da Execução dos Testes
+
+![Gif da Execução](https://github.com/camilaaptt/cypress-direto-ao-ponto/blob/main/cypress-direto-ao-ponto.gif)
+
 ### Documentação do Cypress:
 
 https://docs.cypress.io/guides/overview/why-cypress
